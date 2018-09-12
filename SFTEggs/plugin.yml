@@ -1,0 +1,17 @@
+name: SFTEggs
+main: com.Nafi.mc.SFTEggs.EggMain
+version: 1.0
+commands:
+    giveegg:
+      aliases: [gegg]
+    incubator:
+      aliases: [hatcher,inc]
+    editincubator:
+      aliases: [editinc,edithatcher, incedit]
+permissions:
+    sfteggs.incubator:
+     description: Allows player to open incubator
+    sfteggs.giveegg:
+     description: Allows player to spawn egg
+    sfteggs.editincubator:
+     description: Allows player to edit incubator slots

@@ -1,0 +1,4 @@
+#Statistic name ; Progress ; Goal ; Reward ; EggType(Damage ID)
+EggTracker:
+    Nafi:
+     - Distance Walked;0;100;Fly-Permission;91

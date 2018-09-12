@@ -1,0 +1,6 @@
+Rewards:
+    Fly-Permissions:
+     - /pex user {target} add fly.start
+     - /tellraw {target} ["",{"text":"You've received fly permissions!","color"':"green"}]
+    Cookie:
+     - /give {target} cookie 10
