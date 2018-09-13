@@ -1,0 +1,22 @@
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
+/.gradle
+/gradle
+/javadoc
+## intellij
+/out
+/.idea
+\.idea
+/*.iml
+/*.ipr
+/*.iws
+/build
+/classes
+/atlassian-ide-plugin.xml
+
+*.MF
